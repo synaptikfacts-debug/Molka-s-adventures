@@ -56,5 +56,5 @@ Molka, Molka's Adventures, puppy cartoon, cute puppy, dog cartoon, kids cartoon,
 ```
 
 ## End screen / related video
-- Long: end screen with "Best for viewer" video + Subscribe element (last 20 s).
-- Short: set "Related video" to the latest long episode.
+- Made for kids = **Yes**: end screens, cards and the watermark are not available — skip this section (the outro card in the video does the job).
+- Not made for kids: Long → end screen with "Best for viewer" video + Subscribe (last 20 s); Short → set "Related video" to the latest long episode.

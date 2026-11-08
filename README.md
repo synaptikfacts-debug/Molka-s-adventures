@@ -21,6 +21,8 @@ bible/SERIES_BIBLE.md     Characters, world, style, audience
 templates/                episode.md and upload.md templates
 prompts/NEW_EPISODE.md    Copy/paste prompts for new episodes
 scripts/check_upload.py   Validates YouTube upload details
+scripts/build_brand.py    Draws Molka + channel art (avatar, banner, watermark)
+channel/                  Channel description, settings, bios + brand/ images
 pipeline/                 Shared rendering code (created with the first episode)
 assets/                   Shared characters, backgrounds, fonts, audio + LICENSES.md
 episodes/<CODE>-<slug>/   One folder per episode
