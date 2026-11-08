@@ -1,0 +1,20 @@
+# Large renders (HARD RULE F3) — remove the mp4 line if Git LFS is enabled
+*.mp4
+*.mov
+*.wav
+frames/
+**/render/tmp/
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# Secrets
+.env
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
