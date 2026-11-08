@@ -17,21 +17,34 @@ channel owner before Claude renders anything that depends on them (HARD RULE A2)
 - **Series tagline (used in descriptions):** "Follow Molka the puppy on a new little
   adventure every week! 🐾"
 
-## Molka (main character) — LOCKED once confirmed
+## Molka (main character) — LOCKED
+**In one line:** a tiny white Maltese princess puppy with big brown eyes and
+colourful pigtails.
+
 | Field | Value |
 |---|---|
-| Species / breed | Puppy — breed: **TO CONFIRM** |
-| Age | Puppy (TO CONFIRM exact age if it matters) |
-| Fur colour & markings | **TO CONFIRM** |
-| Eye colour | **TO CONFIRM** |
-| Ears / tail | **TO CONFIRM** |
-| Collar / accessory | **TO CONFIRM** |
-| Size vs. other characters | **TO CONFIRM** |
-| Voice | Speaks? Narrated? Only barks/sounds? **TO CONFIRM** |
-| Personality | Curious, brave, kind, a little clumsy, always hungry for snacks (edit if wrong) |
+| Species / breed | Maltese puppy (she/her) |
+| Fur | Pure white, long, silky and flowing; soft rounded silhouette |
+| Nose | Small, round, shiny black |
+| Eyes | Big, round, dark brown, with a white highlight sparkle in each eye |
+| Paws & toe beans | Pink and black paw pads / toe beans (show them when she sits, waves or sleeps) |
+| Ears | Floppy, covered in long white silky fur that blends into her head |
+| Tail | Fluffy white plume that curls over her back and wags when happy |
+| Signature accessory | **Always** two colourful, girly pigtails on top of her head, tied with bows/hair ties. She never appears without them. The exact bow colours are locked by the first episode and recorded here — then never changed. |
+| Bow colours | Not chosen yet — first episode picks them and records them here |
+| Collar | None. The pigtails are her signature look |
+| Size | Tiny — smaller than most things around her; the world looks big to her |
+| Overall vibe | A tiny princess puppy: dainty, sweet, sparkly, but adventurous |
+| Voice | TO CONFIRM. Until then: no speech — only puppy sounds (yips, little barks, happy sighs, sniffs) plus gentle on-screen text where needed |
+| Personality | Curious, brave, kind, a little clumsy, loves snacks and cuddles (owner may edit) |
 | Catchphrase | none yet |
 | Likes | TO CONFIRM |
 | Dislikes / fears | TO CONFIRM (kept gentle — e.g. bath time, the vacuum) |
+
+**Drawing rules:** white fur needs a light warm-grey or lavender shading/outline so she
+never disappears against pale backgrounds; keep her eyes big and her proportions
+chibi-cute (big head, small body); the pigtails stay in the same place on every
+shot and from every angle.
 
 Reference image / asset: `assets/characters/molka/` (add turnaround: front, side,
 back, ¾, plus key expressions: happy, sad, surprised, sleepy, determined).

@@ -11,7 +11,7 @@ closest version that complies.
 
 ## A. Character & canon
 - **A1.** Molka's design is locked by `bible/SERIES_BIBLE.md`. Never change her
-  breed, colours, markings, proportions, collar, eye colour or voice.
+  breed, colours, markings, proportions, pigtails/bow colours, eye colour or voice.
 - **A2.** Never invent Molka's appearance. If a design field in the bible says
   `TO CONFIRM`, stop and ask the owner before the first render that needs it.
 - **A3.** Molka is always kind, curious and brave. She is never cruel, never hurt
