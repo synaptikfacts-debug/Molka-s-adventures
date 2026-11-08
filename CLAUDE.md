@@ -94,7 +94,7 @@ open questions.
 ## 4. QA checklist (all must pass before Phase 5)
 
 - [ ] Resolution, aspect ratio, fps and duration match the format (verify with `ffprobe`).
-- [ ] Molka matches the bible: white silky fur, black nose, big brown eyes, pink-and-black toe beans, colourful pigtails, proportions, personality.
+- [ ] Molka matches the bible: white silky fur, black nose, big brown eyes, pink-and-black toe beans, long sleek silky hair, pink-bowed pigtails falling around her face, proportions, personality.
 - [ ] No frame is blank, glitched, cropped wrongly or has text outside the safe area
       (Shorts: keep text out of the bottom 20 % and right 15 % where YouTube UI sits).
 - [ ] Audio present, no clipping (peak ≤ −1 dBTP), loudness ≈ −14 LUFS.

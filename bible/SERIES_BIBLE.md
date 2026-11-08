@@ -19,19 +19,19 @@ channel owner before Claude renders anything that depends on them (HARD RULE A2)
 
 ## Molka (main character) — LOCKED
 **In one line:** a tiny white Maltese princess puppy with big brown eyes and
-colourful pigtails.
+pink pigtails.
 
 | Field | Value |
 |---|---|
 | Species / breed | Maltese puppy (she/her) |
-| Fur | Pure white, long, silky and flowing; soft rounded silhouette |
+| Fur | Pure white, long, straight, silky and sleek — parted down the middle of the head and falling smoothly; hair ends in soft pointed tips, never fluffy or curly |
 | Nose | Small, round, shiny black |
 | Eyes | Big, round, dark brown, with a white highlight sparkle in each eye |
 | Paws & toe beans | Pink main pad; four toe beans in the pattern black–pink–pink–black (`#FF8FB8` pink, `#2A2A2A` black). Show them when she sits, waves or sleeps |
-| Ears | Floppy, covered in long white silky fur that blends into her head |
-| Tail | Fluffy white plume that curls over her back and wags when happy |
-| Signature accessory | **Always** two colourful, girly pigtails on top of her head, tied with bows/hair ties. She never appears without them. Bow colours below are locked. |
-| Bow colours | LOCKED: left bow hot pink `#FF4F9A`, right bow lilac purple `#A66BFF`, both with white polka dots and a sunshine-yellow `#FFD24A` centre knot |
+| Ears | Long silky ear hair hanging down beside her head, behind the pigtails |
+| Tail | Long silky white plume that curls over her back, hair falling off it; wags when happy |
+| Signature accessory | **Always** two pigtails tied high on the sides of her head with pink bows. The pigtails are NOT sticking up — the hair falls down softly beside her cheeks, framing her face, ending in a little inward curl. She never appears without them. |
+| Bow colours | LOCKED: both bows hot pink `#FF4F9A` with white polka dots and a light-pink `#FFB3D4` centre knot |
 | Collar | None. The pigtails are her signature look |
 | Size | Tiny — smaller than most things around her; the world looks big to her |
 | Overall vibe | A tiny princess puppy: dainty, sweet, sparkly, but adventurous |
@@ -41,12 +41,14 @@ colourful pigtails.
 | Likes | TO CONFIRM |
 | Dislikes / fears | TO CONFIRM (kept gentle — e.g. bath time, the vacuum) |
 
-**Drawing rules:** white fur needs a light warm-grey or lavender shading/outline so she
-never disappears against pale backgrounds; keep her eyes big and her proportions
-chibi-cute (big head, small body); the pigtails stay in the same place on every
-shot and from every angle.
+**Drawing rules:** white fur gets a soft lavender outline `#CDBBDD`, faint strand lines
+`#E2D6EE` and a white-to-lilac gradient so it reads as long and silky and never
+disappears on pale backgrounds. Keep her eyes big and her head large (puppy
+proportions), but her body is a real dog body — four legs, back, tail — never a blob
+or a human-like pose (no waving, no standing on two legs). Pigtails hang in the same
+place on every shot and from every angle.
 
-Official reference: `channel/brand/avatar_800x800.png` (face) and `channel/brand/banner_2560x1440.png` (full body, waving), both drawn by `scripts/build_brand.py` — reuse its `molka()` drawing code for episodes so she is identical everywhere.
+Official reference: `channel/brand/avatar_800x800.png` (face) and `channel/brand/banner_2560x1440.png` (full body, standing 3/4 view), both drawn by `scripts/build_brand.py` — reuse its `molka()` drawing code for episodes so she is identical everywhere.
 
 Further reference art: `assets/characters/molka/` (add turnaround: front, side,
 back, ¾, plus key expressions: happy, sad, surprised, sleepy, determined).

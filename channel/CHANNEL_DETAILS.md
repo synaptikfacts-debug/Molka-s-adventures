@@ -22,7 +22,7 @@ Back-ups: `@MolkaThePuppy`, `@MolkaAdventures`, `@MolkasAdventuresTV`
 ```
 Welcome to Molka's Adventures! 🐾
 
-Molka is a tiny white Maltese puppy with big brown eyes and colourful pigtails – a little princess with a very big curiosity. Every video follows Molka as she explores her world: making new friends, discovering the garden, getting into gentle mischief and learning something new along the way.
+Molka is a tiny white Maltese puppy with long silky fur, big brown eyes and pink pigtails – a little princess with a very big curiosity. Every video follows Molka as she explores her world: making new friends, discovering the garden, getting into gentle mischief and learning something new along the way.
 
 ✨ Cute animated Shorts and episodes
 🌸 Gentle, happy stories for little ones and their families
@@ -113,7 +113,7 @@ Molka, Molka's Adventures, puppy cartoon, cute puppy, dog cartoon, kids cartoon,
 
 ### Molka's Adventures – Shorts
 ```
-Quick, cute moments from Molka's day! 🐾 Short animated adventures with Molka, the tiny Maltese puppy with colourful pigtails.
+Quick, cute moments from Molka's day! 🐾 Short animated adventures with Molka, the tiny Maltese puppy with pink pigtails.
 ```
 
 ### Molka's Adventures – Full Episodes

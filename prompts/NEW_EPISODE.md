@@ -14,14 +14,15 @@ including this message.
 
 STEP 2 — Who Molka is (must match in every frame):
 Molka is a tiny Maltese puppy girl who looks like a little princess: pure white,
-long, silky fur; a small shiny black nose; big round dark-brown eyes with
-sparkles; pink and black paw pads and toe beans; floppy furry ears; a fluffy tail
-that curls over her back. She ALWAYS wears two colourful, girly pigtails with
-bows on top of her head — never without them, same colours every episode (use
-the colours locked in the bible; if none are locked yet, choose them now and
-record them in the bible). Shade her white fur with soft warm-grey/lavender so
-she never disappears on pale backgrounds. Cute chibi proportions: big head,
-small body.
+long, straight, sleek and silky fur parted down the middle (never fluffy or
+curly); a small shiny black nose; big round dark-brown eyes with sparkles; pink
+and black paw pads and toe beans; long silky ear hair; a silky tail plume that
+curls over her back. She ALWAYS wears two pigtails tied high on the sides of her
+head with PINK polka-dot bows — the pigtails fall down softly beside her cheeks,
+framing her face, never sticking up. Outline her white fur in soft lavender with
+faint strand lines so it reads as silky. Big head and big eyes, but a real puppy
+body on four legs — no blob bodies or human-like poses. Reuse the molka()
+drawing code in scripts/build_brand.py so she matches the channel art exactly.
 
 STEP 3 — What to make:
 - Format: <Short | Long>
